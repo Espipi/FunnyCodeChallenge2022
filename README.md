@@ -1,2 +1,2 @@
 # FunnyCodeCahllenge2022
-CodeChallenge2022
+Code challenge for 2022
