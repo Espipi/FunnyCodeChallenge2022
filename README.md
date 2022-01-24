@@ -1,0 +1,2 @@
+# FunnyCodeCahllenge2022
+CodeChallenge2022
